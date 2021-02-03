@@ -29,7 +29,7 @@ class App extends Component
 				<Stack.Screen name="Contact" component={Contact} />
 			</Stack.Navigator>
 		</NavigationContainer>
-	);
+		);
 	}
 }
 
